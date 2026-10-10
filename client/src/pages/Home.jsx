@@ -186,7 +186,7 @@ export default function Home() {
                     <div className="max-w-3xl">
 
                         <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#00824a]">
-                            About ETrav
+                            About Travexa
                         </p>
 
                         <h2 className="mt-3 text-4xl font-bold text-slate-900">
@@ -194,7 +194,7 @@ export default function Home() {
                         </h2>
 
                         <p className="mt-5 text-base leading-8 text-slate-500">
-                            ETrav helps travel agents, distributors and businesses manage
+                            Travexa helps travel agents, distributors and businesses manage
                             their travel requirements through reliable inventory,
                             competitive pricing and dedicated support.
                         </p>
@@ -256,7 +256,7 @@ export default function Home() {
                         <div>
 
                             <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#00824a]">
-                                Why ETrav
+                                Why Travexa
                             </p>
 
                             <h2 className="mt-3 text-4xl font-bold leading-tight text-slate-900">
